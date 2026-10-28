@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hosu! 👋
+
+I'm a Computer Science student at Hankuk University of Foreign Studies.
+
+## About Me
+- 🎓 Studying Computer Science
+- 💻 Learning C++, C, python, HTML, CSS, and JavaScript
+- 🌱 Interested in software development and web technologies
+
+## Currently Learning
+- Programming fundamentals
+- Web development
 
 <!--
 **choihosu04/choihosu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
